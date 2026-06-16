@@ -25,9 +25,9 @@ export default function CPStats() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[300px_300px_300px_300px] gap-7 justify-center grid-rows-[200px]">
           <StatCard title="LeetCode" value="Knight" label="Peak Rating - 1858" color="#00f0ff" />
-          <StatCard title="DSA Grind" value="1100+" label="Problems Solved" color="#7000ff" />
-          <StatCard title="Codeforces" value="1173" label="Max Rating" color="#ff0000" />
-          <StatCard title="CodeChef" value="2⭐" label="(Best Contest Rank: 499)" color="#00ff00" />
+          <StatCard title="DSA Grind" value="1200+" label="Problems Solved" color="#7000ff" />
+          <StatCard title="Codeforces" value="Pupil" label="Max Rating - 1327" color="#ff0000" />
+          <StatCard title="CodeChef" value="3⭐" label="(Best Contest Rank: 499)" color="#00ff00" />
         </div>
       </div>
     </section>

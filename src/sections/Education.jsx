@@ -25,7 +25,7 @@ export default function Education() {
               <h3 className="text-2xl font-bold text-white mt-2">B.Tech in Information Technology</h3>
               <h4 className="text-lg text-slate-400 mb-4">Bhagwan Parshuram Institute Of Technology (GGSIPU)</h4>
               <p className="text-slate-500 leading-relaxed bg-surface p-4 rounded-lg border border-slate-800">
-                CGPA : 9.64 (Rank 1 in college and Rank 2 in GGSIPU)
+                CGPA : 9.65 (Rank 1 in college and Rank 2 in GGSIPU)
               </p>
             </motion.div>
 
